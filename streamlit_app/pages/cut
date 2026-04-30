@@ -1,0 +1,16 @@
+'''
+    
+
+    if uploaded_file is not None:
+        st.success("File selected successfully!")
+
+        
+
+            
+
+            if response.status_code == 200:
+                st.success("Uploaded successfully!")
+                st.balloons()
+            else:
+                st.error(response.text)
+'''
