@@ -22,7 +22,7 @@ class County(models.Model):
 class CountyInfection(models.Model):
     weekly_data = models.ForeignKey(WeeklyData, on_delete=models.CASCADE, related_name="county_data")
     county = models.ForeignKey(County, on_delete=models.CASCADE, related_name="infection_data")
-    infections = models.IntegerField()
+    infections = models.FloatField()
 
     class Meta:
         unique_together = ("weekly_data", "county")
