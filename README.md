@@ -93,7 +93,7 @@ Developed as part of the *Data Exploration and Visualization* course at **E√∂tv√
     http://127.0.0.1:8000/api/
  The Streamlit app consumes this API and visualizes the data. 
  
- AI was used to learn how django work and to help me coding faster
+ AI was used to learn how Django works and to help me code faster
 
 ### 1. Clone the repository
 
