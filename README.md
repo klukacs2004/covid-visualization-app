@@ -26,14 +26,14 @@ Developed as part of the *Data Exploration and Visualization* course at **E√∂tv√
 
 ## How to use
  ### 1. Create a virtual environment
-    First you need to create an enviroment with the reuirements.txt extensions
+ First you need to create an enviroment with the reuirements.txt extensions
 
  ### 2. Run the application
     You need two terminals
 
     Terminal 1-Django backend:
     Navigate into the backend directory and start the server:
-    ```
+    ```bash
         cd backend
         python manage.py runserver
     ```
