@@ -91,7 +91,9 @@ Developed as part of the *Data Exploration and Visualization* course at **E√∂tv√
  Serializers convert model data into JSON format.
  The API is available at:
     http://127.0.0.1:8000/api/
- The Streamlit app consumes this API and visualizes the data.
+ The Streamlit app consumes this API and visualizes the data. 
+ 
+ AI was used to learn how django work and to help me coding faster
 
 ### 1. Clone the repository
 
