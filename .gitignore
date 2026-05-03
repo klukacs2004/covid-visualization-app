@@ -1,16 +1,3 @@
-# Python
-__pycache__/
-*.pyc
-
 # Virtual env
 .venv/
 env/
-
-# Django
-db.sqlite3
-
-# VS Code
-.vscode/
-
-# Data
-*.csv
